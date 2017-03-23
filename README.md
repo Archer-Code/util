@@ -1,2 +1,2 @@
 # util
-this is a tools
+this is a tool
